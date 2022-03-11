@@ -28,3 +28,18 @@ o *inorder (root) : left-print-right*
 -Sorting is difficult
 
 -Not much Fixible
+
+# **What is Binary Search Tree**
+> Binary tree with the additional restriction
+
+>restriction:
+
+   > Left child must always be root node
+   
+   > Right Child must always be greater than root node.
+   
+> Insertion Deletion Search is much more efficient than binary tree   
+
+## **Application**
+
+>Suitable for sorted hierarchical
