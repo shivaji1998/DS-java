@@ -4,7 +4,7 @@
 
 -Follows FIFO: First In First Out
 
-- Insertion can take place from the rear end. Deletion can take place from the front end.
+-Insertion can take place from the rear end. Deletion can take place from the front end.
 
 Eg: queue at ticket counters, bus station
 
