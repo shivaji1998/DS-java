@@ -51,4 +51,5 @@ o *inorder (root) : left-print-right*
 ## Disadvantages
 
 >Sorting is difficult
+
 >Not much flexible
