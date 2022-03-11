@@ -17,3 +17,14 @@ o *preorder(root): print-left-right*
 o *postorder(root) : left-right-print*
 
 o *inorder (root) : left-print-right*
+
+## **Adavtages**
+
+-Can represent data with some relationship
+
+-insertion and search are much more efficient.
+
+## **Disadvantages**
+-Sorting is difficult
+
+-Not much Fixible
