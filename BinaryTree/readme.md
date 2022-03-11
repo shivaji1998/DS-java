@@ -43,3 +43,12 @@ o *inorder (root) : left-print-right*
 ## **Application**
 
 >Suitable for sorted hierarchical
+
+## Advantages
+>Can represent data with some relationship
+> Insertion and search are much more efficient
+
+## Disadvantages
+
+>Sorting is difficult
+>Not much flexible
