@@ -46,6 +46,7 @@ o *inorder (root) : left-print-right*
 
 ## Advantages
 >Can represent data with some relationship
+>
 > Insertion and search are much more efficient
 
 ## Disadvantages
