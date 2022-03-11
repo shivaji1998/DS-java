@@ -1,9 +1,22 @@
 package queueExample;
 
-/**
- * @author Legion
- *
- */
+/*
+Queue implementation
+
+A program implementing the following points:
+
+1. Create a queue and implement it using classes and inbuilt methods.
+
+2. Implement the following functions:
+
+1. Enqueue
+
+2.Dequeue
+
+3. isEmpty 4. Size
+
+5. Display
+*/
 class QueueUsingAray {
     int front_Q, rear_Q;
     int capacityOfQueue;
