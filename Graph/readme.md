@@ -28,5 +28,8 @@ Directed graphs have edges with direction. The edges indicate a one-way relation
 
 It is an algorithm to trace the nodes of the graph in a depth-first order; the nodes in one depth are traversed first, then the nodes in the parallel depth are traversed. It uses the concept of back-tracking after one vertical depth node is traversed.
 
+## Hashing implementation
+
+Hashing is a technique or process of mapping keys, values into the hash table by using a hash function. It is done for faster access to elements. The efficiency of mapping depends on the efficiency of the hash function used.
 
 
